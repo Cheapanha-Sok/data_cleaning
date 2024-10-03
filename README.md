@@ -1,4 +1,4 @@
-# 
+# Data Cleaning and Preprocessing
 
 > Written by Sok Cheapanha
 
@@ -8,7 +8,4 @@ Use `source /path/env/activate` to activate the python env
 
 Use `pip install ipykernal` to install ipykernal 
 
-Use `pip install -r Requirments.txt` to install requirement pakages: pandas , matplot etc
-
-
-![Samsung Innovation Campus](./Samsung-Innovation-Campus.png)
+Use `pip install -r requirments.txt` to install requirement library
